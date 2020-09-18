@@ -65,10 +65,10 @@
 				9DA6CCCC250D96EE00499DB0 /* CoinManager.swift */,
 				9DA6CCBC250D91F900499DB0 /* ViewController.swift */,
 				9DA6CCBE250D91F900499DB0 /* Main.storyboard */,
+				9DA6CCCE250DB13100499DB0 /* CoinData.swift */,
 				9DA6CCC1250D91FC00499DB0 /* Assets.xcassets */,
 				9DA6CCC3250D91FC00499DB0 /* LaunchScreen.storyboard */,
 				9DA6CCC6250D91FC00499DB0 /* Info.plist */,
-				9DA6CCCE250DB13100499DB0 /* CoinData.swift */,
 			);
 			path = CoinApp;
 			sourceTree = "<group>";
